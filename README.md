@@ -44,3 +44,8 @@ View Recipe Webpage Source Code **[here](https://github.com/globaltrashchic/My-O
 
 View Live Recipe Webpage **[here](https://thimble.mozilla.org/en-US/user/globaltrashchic/614743)**.
 
+### Summative Presentation
+
+![image](https://uk.pinterest.com/pin/443604632029977927/)
+
+
