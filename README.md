@@ -6,8 +6,7 @@ Web Design Summative Assessment
 
 **Student No:** 96396116
 
-**Course:** BA (Hons) Web Media, Level 1.
-
+**Course:** BA(Hons) Web Media Production Level 1
 **Unit Code:** WEB14104
 
 
