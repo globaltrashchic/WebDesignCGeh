@@ -46,7 +46,7 @@ View Live Recipe Webpage **[here](https://thimble.mozilla.org/en-US/user/globalt
 
 ### Summative Presentation
 
-![image](https://uk.pinterest.com/pin/443604632029977927/visual-search/?x=94&y=118&w=376&h=470)
+![image](2991c26cc3af5b141756bb1af1aba10e.jpg)
 
 
 
