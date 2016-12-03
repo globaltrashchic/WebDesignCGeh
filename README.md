@@ -12,7 +12,7 @@ Web Design Summative Assessment
 
 
 ### Introduction
-
+I am the only international student in this course spending 13 hours flying all the way from Malaysia to join Ravensbourne.  
 
 
 #### Blog Posts
