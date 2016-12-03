@@ -33,3 +33,14 @@ I am the only international student in this course spending 13 hours flying all 
 6. [CSS Tricks](http://fourthfloor.raveweb.net/cgeh/2016/12/03/css-tricks/)
 
 7. [Code Your Plate](http://fourthfloor.raveweb.net/cgeh/2016/12/03/code-in-your-plate/)
+
+### Recipe
+
+#### Recipe Webpage: 10 Minute Seared Tuna
+
+I have created a recipe for this webpage using HTML & CSS to make a responsive webpage of a 10 Minute Seared Tuna found online. This helped me to get familiar with the basics of coding and experiment with responsive design.
+
+View Recipe Webpage Source Code **[here](https://github.com/globaltrashchic/My-Own-Recipe)**.
+
+View Live Recipe Webpage **[here](https://thimble.mozilla.org/en-US/user/globaltrashchic/614743)**.
+
