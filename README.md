@@ -1,6 +1,6 @@
-# WebDesignCGeh
+# WebDesign Claranz Geh
 Web Design Summative Assessment 
-# WEB14105: Web Development Workshop
+# WEB14104: Web Development Workshop
 
 **Name:** Claranz Geh
 
