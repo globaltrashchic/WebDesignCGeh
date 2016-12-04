@@ -147,4 +147,4 @@ For this particular poster, I used the font Andalé Mono which is a monospaced s
 
 And my last poster was fill in text in the Question Mark and I choose the color purple because it is one of my favourite colors.
 
-## **Thank you for listening to my Summative Presentation and Hope You Enjoyed It.**
+# **Thank you for listening to my Summative Presentation and Hope You Enjoy It.**
