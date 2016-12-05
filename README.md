@@ -42,7 +42,7 @@ I have created a recipe for this webpage using HTML & CSS to make a responsive w
 
 View Recipe Webpage Source Code **[here](https://github.com/globaltrashchic/My-Own-Recipe)**.
 
-View Live Recipe Webpage **[here](https://thimble.mozilla.org/en-US/user/globaltrashchic/614743)**.
+View Live Recipe Webpage **[here](https://thimbleprojects.org/globaltrashchic/145370/)**.
 
 # Summative-Presentation
 
