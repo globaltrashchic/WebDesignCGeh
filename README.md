@@ -34,7 +34,7 @@ I am the only international student in this course spending 13 hours flying all 
 
 7. [Code Your Plate](http://fourthfloor.raveweb.net/cgeh/2016/12/03/code-in-your-plate/)
 
-### Recipe
+### Code you plate.
 
 #### Recipe Webpage: 10 Minute Seared Tuna
 
