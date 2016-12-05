@@ -75,11 +75,13 @@ Eye Bombing was our lesson's first group project. This was a task for us to take
 ### 4. Someone's house along Portobello Road
 
 ![House](https://github.com/globaltrashchic/eyesbombing/blob/master/unnamed-04.jpg)
+
 I like how the placing and allignment of the windows and doors in this house. Which reminds me about placing things in grids for our web designing. 
 
 ### 5. Home door handle
 
 ![Door Handle](https://github.com/globaltrashchic/eyesbombing/blob/master/unnamed-1.jpg)
+
 The home door handle reminds me of light teapots as shown in the movie Beauty and the Beast.
 
 ### 6. Random Cans Hanged
@@ -89,6 +91,7 @@ The home door handle reminds me of light teapots as shown in the movie Beauty an
 ### 7. Some Bar Entrance in Portobello
 
 ![Bar Entrance](https://github.com/globaltrashchic/eyesbombing/blob/master/unnamed0.jpg)
+
 The design of the door entrance bar above shows the eyes, the flower as the nose and the door entry as the mouth.
 
 ### 8. Wine Opener
@@ -98,6 +101,7 @@ The design of the door entrance bar above shows the eyes, the flower as the nose
 ### Car Deck
 
 ![Car](https://github.com/globaltrashchic/eyesbombing/blob/master/e907dea5e50eacf413f0f04d34bf4c4c.jpg)
+
 This is a friend's Ford car deck. Which I happen to see the face as I sat in his car. 
 
 ## Union Hack
