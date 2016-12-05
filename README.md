@@ -46,11 +46,9 @@ View Live Recipe Webpage **[here](https://thimble.mozilla.org/en-US/user/globalt
 
 # Summative-Presentation
 
-**_Good morning!_**
+Here is my Summative Presentation. I have compiled three of my favourite works which in particular I enjoyed working most and some of them were challenging for me in my first term in Web Production. 
 
-Here is my Summative Presentation. I have compiled three of my favourite works which in particular I enjoyed working most and some of them were challenging for me in my first term in Web Production. Some of the project needed some work to be done and this time I have put in effort to make it better for my presentation.
-
-### Contents
+## Contents
 
 • Eyebombing
 • One Tweet
@@ -58,7 +56,7 @@ Here is my Summative Presentation. I have compiled three of my favourite works w
 
 ## Eye Bombing
 
-Eye Bombing was our lesson's first group project. This was a task for us to take photographs of faces in unusual places. Having different ways of seeing and looking before creating in design. One thing I have learned from this project is the ability to look at what surrounds you and see the possibilities for how things can be framed. At the very least, they can transform the ugliest and most soulless places into things of beauty and humor. I decided to take a stroll to Portobello Market on my weekend to get some of the shots that I need.
+Eye Bombing was our lesson's first group project. This was a task for us to take photographs of faces in unusual places. Having different ways of seeing and looking before creating in design. One thing I have learned from this project is the ability to look at what surrounds you and see the possibilities for how things can be framed. At the very least, they can transform the ugliest and most soulless places into things of beauty and humor. I decided to take a stroll to Portobello Market during my weekend to get some new shots for my presentation today.
 
 ### 1. Man Made Lamp which I found in a shop at the Portobello market. 
 
@@ -76,13 +74,15 @@ Eye Bombing was our lesson's first group project. This was a task for us to take
 
 ![House](https://github.com/globaltrashchic/eyesbombing/blob/master/unnamed-04.jpg)
 
-I like how the placing and allignment of the windows and doors in this house. Which reminds me about placing things in grids for our web designing. 
+I like how the placing and allignment of the windows and doors in this house. Which reminds me about placing things using Grids for our Web Designing. 
 
 ### 5. Home door handle
 
 ![Door Handle](https://github.com/globaltrashchic/eyesbombing/blob/master/unnamed-1.jpg)
 
-The home door handle reminds me of light teapots as shown in the movie Beauty and the Beast.
+![Lumiere](https://github.com/globaltrashchic/eyesbombing/blob/master/lumiere-beauty-and-the-beast-36.8.jpg)
+
+The home door handle reminds me of some cartoon character Lumiere in the movie Beauty and the Beast.
 
 ### 6. Random Cans Hanged
 
@@ -92,11 +92,13 @@ The home door handle reminds me of light teapots as shown in the movie Beauty an
 
 ![Bar Entrance](https://github.com/globaltrashchic/eyesbombing/blob/master/unnamed0.jpg)
 
-The design of the door entrance bar above shows the eyes, the flower as the nose and the door entry as the mouth.
+The design drawings of the door entrance bar above shows the eyes, the flower as the nose and the door entry as the mouth.
 
 ### 8. Wine Opener
 
 ![Wine Opener](https://github.com/globaltrashchic/eyesbombing/blob/master/d89c8d85890ef09dc7715a60671cc838.jpg)
+
+This is one of my favourite pictures not because I am an alcoholic. Wine opener turned around and there you get a face.
 
 ### Car Deck
 
@@ -110,38 +112,39 @@ Union Hack is a project to teach us about about Symbols and Brands. We were give
 
 ![The Japan Flag](https://github.com/globaltrashchic/Union-Hack/blob/master/sun01.gif)
 
-The Japanese Flag is a white banner whose center contains a red circle; this circle represents the sun, it is one of the easiest flag to be recognize and enjoy due to its purity and simplicity. The Japanese flag is called Hinomaru, which means "Circle Of The Sun." In English it is sometimes called the "Rising Sun." This flag has been used for over a thousand years, and no one knows who designed it or when. It was officially adopted as the flag of Imperial Japan on January 27, 1870. 
+The Japan Flag is a white banner whereby its center contains a red circle; this circle represents the sun, it is one of the easiest flag to be recognize and enjoy due to its purity and simplicity. The Japanese flag is called Hinomaru, which means "Circle Of The Sun." In English it is called the "Rising Sun." This flag has been used for over a thousand years, and no one knows who designed it or when. It was officially adopted as the flag of Imperial Japan on January 27, 1870. 
 
 ![Flag Design 01](https://github.com/globaltrashchic/Union-Hack/blob/master/Sun03.jpg)
 
-I removed the Red Circle in the centre and reate a rising tone from yellow to red showing that the Sun is rising. The Warm colors include red, orange, and yellow, and variations of those three colors. These are the colors of fire, sunsets and sunrises and are generally energizing, passionate, and positive which in a way can sums up Japan's flag. 
+I removed the Red Circle in the midddle and recreate a circle tone from yellow to red showing that the Sun is rising. The Warm colors include red, orange, and yellow, and variations of those three colors. These are the colors of fire, sunsets and sunrises and are generally energizing, passionate and positive which in a way can sums up Japan's flag. 
 
 ![Flag Design 02](https://github.com/globaltrashchic/Union-Hack/blob/master/Sun01-01.jpg)
 
-In this design, I replace the Red Cirle and Included the Map of Japan. The reason why I chose Red is to symbolize their country meaning for the Rising Sun.
+In this design, I replace the Red Cirle with the Map of Japan. The reason why I chose Red is to symbolize their country meaning for the Rising Sun.
 
 ![Flag Design 03](https://github.com/globaltrashchic/Union-Hack/blob/master/Sun02-01.jpg)
 
-Lastly my favourite flag, the above whereby I included a Samurai sword inside as part of the logo. The Samurai sword is a signature weapon that was inherited from Japan. The earliest origins of this fascinating weapons can be traced back some 1300 years ago. The first Japanese sword were basically variations of the Chinese Jian (called Chokuto) - in other words a straight, double edged iron blade. However sometime during the early Heian period, around 700AD, the first uniquely Japanese swords that were the forerunners of the 'modern' Katana began to evolve. It was during this time that Japan began to abandon such close cultural ties with China, it's society stabilized into class divisions, and the military guards of the capital and the gentlemen of the provinces became the first Samurai. I chose the color Black which is associated with power, elegance, formality and mystery. Black is a mysterious color associated with fear and the unknown.
+Lastly my favourite flag, the above whereby I included a Samurai sword inside the circle as part of the logo. The Samurai sword is a signature weapon that was inherited from Japan. The earliest origins of this fascinating weapons can be traced back some 1300 years ago. The first Japanese sword were basically variations of the Chinese Jian (called Chokuto) - in other words a straight, double edged iron blade. However sometime during the early Heian period, around 700AD, the first uniquely Japanese swords that were the forerunners of the 'modern' Katana began to evolve. It was during this time that Japan began to abandon such close cultural ties with China, it's society stabilized into class divisions, and the military guards of the capital and the gentlemen of the provinces became the first Samurai. I chose the color Black which is associated with power, elegance, formality and mystery. Black is a mysterious color associated with fear and the unknown.
 
 ## One Tweet
-This project is about typography creating meaning with text. We had to choose a single tweet and play around with the typography making it into a poster. I chosen the tweet by Edward Snowden: Can you hear me now? 
+
+This project is about typography creating meaning with text. We had to choose a single tweet and play around with the typography making turning it into a poster. For this assignment, we were only allow to have a Single Font Family and upto 3 colours of choice. I chosen the tweet by Edward Snowden: Can you hear me now? 
 
 ![First Simple Poster](https://github.com/globaltrashchic/One-Tweet/blob/master/Snow5.png)
 
-This was my first simple poster whereby I chosen the font Arial Narrow which is one of my favourite fonts. The reason I chosen the color red and blue is because it is the national flag color for Russia whereby Edward Snowden is residing asylum there now. 
+This was my first simple poster whereby I chosen the font Arial Narrow which is one of my favourite fonts as Arial has many different kind of design fonts under its family. The reason I chosen the color red and blue is because it is the national flag color for Russia whereby Edward Snowden is residing Asylum there now. 
 
-![Second Simple Poster](https://github.com/globaltrashchic/One-Tweet/blob/master/Snow6.pdf)
+![Second Simple Poster](https://github.com/globaltrashchic/One-Tweet/blob/master/Snow6.png)
 
-My second poster I decided to play around with the sizing of the typography from small to big letters whereby it looks like the Can you hear me now is getting louder and gets people's attention. I decided to choose the Red color for Edward Snowden's name and S is because to create an Awareness and Alert to people when reading the poster. 
+My second poster I decided to play around with the sizing of the typography thanks to Callum for teaching me show. Text ranging from small to big letters whereby it looks like the sentence Can you hear me now is getting louder and gets people's attention. I decided to choose the Red color for Edward Snowden's name and "S" is because to create an Awareness and Alert to people when reading the poster. 
 
-![Third Poster](One-Tweet/Snow6.pdf)
+![Third Poster](https://github.com/globaltrashchic/One-Tweet/blob/8d4222a8b549518b0620ab9328ddcc8ee598e47f/Snow1.png)
 
-My third poster, I manage to learn how to fill a character with text in it. And this was my first design. I decided to use the Big S for Snowden's surname. 
+My third poster, I manage to learn how to fill a character with text in it. And this was my first design. I decided to use the Big "S" for Snowden's surname. 
 
-![Fourth Poster](https://github.com/globaltrashchic/One-Tweet/blob/master/Snow1.png)
+![Fourth Poster](https://github.com/globaltrashchic/One-Tweet/blob/master/Snow1yellow.png)
 
-Here I decided to include the color Yellow which is the color of sunshine, hope, and happiness has conflicting associations. On one hand yellow stands for freshness, happiness, positivity, clarity, energy, optimism, enlightenment and joy but on the other, it represents cowardice and deceit as Snowden is hiding in Russia as he is a wanted man back in US. 
+Here I decided to include the color Yellow which is the color of sunshine, hope, and happiness but has conflicting associations. On one hand yellow stands for freshness, happiness, positivity, clarity, energy, optimism, enlightenment and joy but on the other, it represents cowardice and deceit as Snowden is hiding in Russia as he is a wanted man back in the United States. 
 
 ![Fifth Poster](https://github.com/globaltrashchic/One-Tweet/blob/master/Snow3.png)
 
@@ -149,6 +152,8 @@ For this particular poster, I used the font Andalé Mono which is a monospaced s
 
 ![Last Poster](https://github.com/globaltrashchic/One-Tweet/blob/master/Snow2.png)
 
-And my last poster was fill in text in the Question Mark and I choose the color purple because it is one of my favourite colors.
+And my last poster is, I fill in the text in a Question Mark and I choose the color purple because it combines the calm stability of blue and the fierce energy of red. The color purple is often associated with royalty, nobility, luxury, power, and independance.
 
-# **Thank you for listening to my Summative Presentation and Hope You Enjoy It.**
+# **Thank you**
+
+## **Hope you enjoy it...**
